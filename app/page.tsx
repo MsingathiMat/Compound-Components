@@ -25,10 +25,10 @@ const Page = () => {
       <Product>
         <ProductImage />
         <ProductDetails>
-        <ItemAction />
+        <PriceTag />
           <Description />
-          <PriceTag />
-          
+     
+          <ItemAction />
         </ProductDetails>
       </Product>
     </main>
